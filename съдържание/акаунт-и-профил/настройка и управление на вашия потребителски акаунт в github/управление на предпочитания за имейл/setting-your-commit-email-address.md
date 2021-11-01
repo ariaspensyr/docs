@@ -1,8 +1,8 @@
----
-title: Setting your commit email address
-intro: 'You can set the email address that is used to author commits on {% data variables.product.product_location %} and on your computer.'
-redirect_from:
-  - /articles/keeping-your-email-address-private/
+---аriaspensyr85@
+заглавие: Предоставяне на вашия имейл адрес за извършванеgmail.
+intro: 'Можете да зададете имейл адреса, който се използва за авторски ангажименти на {% data variables.product.product_location %} и на вашия компютър.'c
+пренасочване_от:om
+  - /статии/запазване-вашия-имейл-адрес-частен/
   - /articles/setting-your-commit-email-address-on-github/
   - /articles/about-commit-email-addresses/
   - /articles/git-email-settings/
